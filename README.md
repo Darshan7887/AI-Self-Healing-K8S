@@ -144,7 +144,7 @@ ai-self-healing-k8s/
 <h3>1️⃣ Clone the Repository</h3>
 
 <pre>
-git clone https://github.com/YOUR_USERNAME/AI-Self-Healing-K8S.git
+git clone https://github.com/Darshan7887/AI-Self-Healing-K8S.git
 cd AI-Self-Healing-K8S
 </pre>
 
